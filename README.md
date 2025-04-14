@@ -16,4 +16,4 @@ Một công cụ Python đơn giản dùng để tạo nhiều ví Solana cùng 
 ### 1. Clone repo
 ```bash
 git clone https://github.com/Chiricato/Create-auto-wallet-SOL.git
-cd solana-wallet-generator
+cd Create-auto-wallet-SOL
