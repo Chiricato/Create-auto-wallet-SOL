@@ -17,3 +17,15 @@ Một công cụ Python đơn giản dùng để tạo nhiều ví Solana cùng 
 ```bash
 git clone https://github.com/Chiricato/Create-auto-wallet-SOL.git
 cd Create-auto-wallet-SOL
+```
+
+### 2. Install thư viện
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Chạy lệnh
+
+```bash
+python auto_create.py
+```
